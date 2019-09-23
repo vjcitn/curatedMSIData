@@ -1,0 +1,15 @@
+Package: curatedMSIData
+Title: Data and code resources for microsatellite instability studies
+Description: Manage data and code resources for microsatellite instability studies.
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr
+Depends: R (>= 3.6.0), SummarizedExperiment, GenomicRanges
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+LazyData: yes
+biocViews: ImmunoOncology, Infrastructure
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+Encoding: UTF-8
